@@ -22,7 +22,7 @@ source myvenv/bin/activate
 Install the requirements:
 
 ```bash
-pip install -r requirements.txt
+pip install -r app/requirements.txt
 ```
 Run the app:
 
